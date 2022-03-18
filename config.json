@@ -1,0 +1,18 @@
+{
+    "name": "MongoDbAtlasSinkConnector_1",
+    "config": {
+      "connector.class": "MongoDbAtlasSink",
+      "name": "MongoDbAtlasSinkConnector_1",
+      "input.data.format": "JSON",
+      "kafka.auth.mode": "KAFKA_API_KEY",
+      "kafka.api.key": "KWACWALGD5S2ODGI",
+      "kafka.api.secret": "zVdUiaeEr+ICSqkcQn+R0MoU5bYWcVp7gJazmHSDlz8LjYJEprayedGGensHSqhO",
+      "topics": "movielog",
+      "connection.host": "cluster0.6ieit.mongodb.net",
+      "connection.user": "17645",
+      "connection.password": "17645",
+      "database": "i3",
+      "collection": "movies",
+      "tasks.max": "1"
+    }
+  }

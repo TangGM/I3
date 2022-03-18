@@ -1,0 +1,602 @@
+[
+    {
+      "user_id": 91431,
+      "movie_title": "no+direction+home+bob+dylan+2005",
+      "score": 5,
+      "rated_at": "2022-02-01 19:22:12.000000"
+    },
+    {
+      "user_id": 73565,
+      "movie_title": "wrong+turn+2003",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:12.000000"
+    },
+    {
+      "user_id": 14826,
+      "movie_title": "pirates+of+the+caribbean+on+stranger+tides+2011",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:14.000000"
+    },
+    {
+      "user_id": 92839,
+      "movie_title": "thor+the+dark+world+2013",
+      "score": 2,
+      "rated_at": "2022-02-01 19:22:14.000000"
+    },
+    {
+      "user_id": 64470,
+      "movie_title": "dragon+ball+mystical+adventure+1988",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:15.000000"
+    },
+    {
+      "user_id": 46592,
+      "movie_title": "one+in+a+million+1995",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:16.000000"
+    },
+    {
+      "user_id": 69440,
+      "movie_title": "gaslight+1944",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:17.000000"
+    },
+    {
+      "user_id": 116386,
+      "movie_title": "alice+in+wonderland+1951",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:17.000000"
+    },
+    {
+      "user_id": 91542,
+      "movie_title": "the+snitch+cartel+2012",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:20.000000"
+    },
+    {
+      "user_id": 105981,
+      "movie_title": "wer+2013",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:20.000000"
+    },
+    {
+      "user_id": 45323,
+      "movie_title": "legacy+of+rage+1986",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:21.000000"
+    },
+    {
+      "user_id": 33655,
+      "movie_title": "chicken+run+2000",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:21.000000"
+    },
+    {
+      "user_id": 54062,
+      "movie_title": "steppenwolf+1974",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:22.000000"
+    },
+    {
+      "user_id": 126370,
+      "movie_title": "vampir-cuadecuc+1971",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:24.000000"
+    },
+    {
+      "user_id": 64769,
+      "movie_title": "troll+hunter+2010",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:24.000000"
+    },
+    {
+      "user_id": 116700,
+      "movie_title": "2001+a+space+odyssey+1968",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:27.000000"
+    },
+    {
+      "user_id": 88789,
+      "movie_title": "batch+81+1982",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:31.000000"
+    },
+    {
+      "user_id": 134924,
+      "movie_title": "the+princess+diaries+2001",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:36.000000"
+    },
+    {
+      "user_id": 28105,
+      "movie_title": "cleanflix+2010",
+      "score": 2,
+      "rated_at": "2022-02-01 19:22:36.000000"
+    },
+    {
+      "user_id": 67852,
+      "movie_title": "fight+club+1999",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:38.000000"
+    },
+    {
+      "user_id": 95907,
+      "movie_title": "dragon+ball+z+bardock+-+the+father+of+goku+1990",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:39.000000"
+    },
+    {
+      "user_id": 99372,
+      "movie_title": "starlet+2012",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:40.000000"
+    },
+    {
+      "user_id": 118297,
+      "movie_title": "the+trouble+with+dee+dee+2005",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:40.000000"
+    },
+    {
+      "user_id": 146578,
+      "movie_title": "the+philadelphia+experiment+1984",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:41.000000"
+    },
+    {
+      "user_id": 42096,
+      "movie_title": "the+thirteen+1937",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:42.000000"
+    },
+    {
+      "user_id": 79859,
+      "movie_title": "snow+white+and+the+seven+dwarfs+1937",
+      "score": 2,
+      "rated_at": "2022-02-01 19:22:44.000000"
+    },
+    {
+      "user_id": 14580,
+      "movie_title": "wilson+1944",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:54.000000"
+    },
+    {
+      "user_id": 22841,
+      "movie_title": "pulse+2001",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:54.000000"
+    },
+    {
+      "user_id": 113062,
+      "movie_title": "eight+men+out+1988",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:58.000000"
+    },
+    {
+      "user_id": 126551,
+      "movie_title": "spider-man+2002",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:59.000000"
+    },
+    {
+      "user_id": 83400,
+      "movie_title": "peace_+love++misunderstanding+2011",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:59.000000"
+    },
+    {
+      "user_id": 90589,
+      "movie_title": "quantum+of+solace+2008",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:04.000000"
+    },
+    {
+      "user_id": 38988,
+      "movie_title": "leon+the+professional+1994",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:05.000000"
+    },
+    {
+      "user_id": 93383,
+      "movie_title": "titanic+1997",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:06.000000"
+    },
+    {
+      "user_id": 21693,
+      "movie_title": "bad+company+2002",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:07.000000"
+    },
+    {
+      "user_id": 100831,
+      "movie_title": "essex+boys+2000",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:07.000000"
+    },
+    {
+      "user_id": 137839,
+      "movie_title": "the+proposition+2005",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:08.000000"
+    },
+    {
+      "user_id": 79979,
+      "movie_title": "louis+theroux+americas+most+hated+family+in+crisis+2011",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:11.000000"
+    },
+    {
+      "user_id": 143699,
+      "movie_title": "top+five+2014",
+      "score": 2,
+      "rated_at": "2022-02-01 19:23:11.000000"
+    },
+    {
+      "user_id": 93682,
+      "movie_title": "summer+in+february+2013",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:12.000000"
+    },
+    {
+      "user_id": 60164,
+      "movie_title": "dragon+ball+z+super+android+13+1992",
+      "score": 5,
+      "rated_at": "2022-02-01 19:23:12.000000"
+    },
+    {
+      "user_id": 74002,
+      "movie_title": "the+lion+king+1994",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:13.000000"
+    },
+    {
+      "user_id": 86499,
+      "movie_title": "down+in+the+valley+2005",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:16.000000"
+    },
+    {
+      "user_id": 144061,
+      "movie_title": "the+dark+knight+2008",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:16.000000"
+    },
+    {
+      "user_id": 134565,
+      "movie_title": "bill+hicks+sane+man+1989",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:19.000000"
+    },
+    {
+      "user_id": 77888,
+      "movie_title": "tabu+1931",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:21.000000"
+    },
+    {
+      "user_id": 25403,
+      "movie_title": "kabluey+2007",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:22.000000"
+    },
+    {
+      "user_id": 3624,
+      "movie_title": "terminator+2+judgment+day+1991",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:22.000000"
+    },
+    {
+      "user_id": 3930,
+      "movie_title": "the+matrix+1999",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:29.000000"
+    },
+    {
+      "user_id": 27526,
+      "movie_title": "confessions+2010",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:29.000000"
+    },
+    {
+      "user_id": 32675,
+      "movie_title": "confession+1937",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:31.000000"
+    },
+    {
+      "user_id": 138603,
+      "movie_title": "gomorrah+2008",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:32.000000"
+    },
+    {
+      "user_id": 67278,
+      "movie_title": "the+secret+six+1931",
+      "score": 2,
+      "rated_at": "2022-02-01 19:23:34.000000"
+    },
+    {
+      "user_id": 25095,
+      "movie_title": "blade+runner+1982",
+      "score": 5,
+      "rated_at": "2022-02-01 19:23:35.000000"
+    },
+    {
+      "user_id": 125244,
+      "movie_title": "initial+d+2005",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:37.000000"
+    },
+    {
+      "user_id": 53570,
+      "movie_title": "asylum+2008",
+      "score": 2,
+      "rated_at": "2022-02-01 19:23:38.000000"
+    },
+    {
+      "user_id": 50929,
+      "movie_title": "the+wind+rises+2013",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:26.000000"
+    },
+    {
+      "user_id": 127371,
+      "movie_title": "princess+mononoke+1997",
+      "score": 5,
+      "rated_at": "2022-02-01 19:21:27.000000"
+    },
+    {
+      "user_id": 78935,
+      "movie_title": "ali+2001",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:29.000000"
+    },
+    {
+      "user_id": 54588,
+      "movie_title": "to+be+or+not+to+be+1983",
+      "score": 3,
+      "rated_at": "2022-02-01 19:21:31.000000"
+    },
+    {
+      "user_id": 15429,
+      "movie_title": "dallas+1950",
+      "score": 2,
+      "rated_at": "2022-02-01 19:21:31.000000"
+    },
+    {
+      "user_id": 114410,
+      "movie_title": "pt+109+1963",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:34.000000"
+    },
+    {
+      "user_id": 66023,
+      "movie_title": "kikis+delivery+service+1989",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:38.000000"
+    },
+    {
+      "user_id": 137902,
+      "movie_title": "if+these+walls+could+talk+2+2000",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:43.000000"
+    },
+    {
+      "user_id": 124440,
+      "movie_title": "the+kings+speech+2010",
+      "score": 5,
+      "rated_at": "2022-02-01 19:21:44.000000"
+    },
+    {
+      "user_id": 137776,
+      "movie_title": "bandits+silver+angel+1994",
+      "score": 3,
+      "rated_at": "2022-02-01 19:21:48.000000"
+    },
+    {
+      "user_id": 147096,
+      "movie_title": "aliens+1986",
+      "score": 4,
+      "rated_at": "2022-02-01 19:21:48.000000"
+    },
+    {
+      "user_id": 605,
+      "movie_title": "the+maze+runner+2014",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:05.000000"
+    },
+    {
+      "user_id": 37713,
+      "movie_title": "ong-bak+the+thai+warrior+2003",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:08.000000"
+    },
+    {
+      "user_id": 96480,
+      "movie_title": "wild+target+2010",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:12.000000"
+    },
+    {
+      "user_id": 58224,
+      "movie_title": "backstage+2000",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:16.000000"
+    },
+    {
+      "user_id": 148997,
+      "movie_title": "true+believer+1989",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:18.000000"
+    },
+    {
+      "user_id": 133415,
+      "movie_title": "i+belong+2012",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:20.000000"
+    },
+    {
+      "user_id": 38357,
+      "movie_title": "igby+goes+down+2002",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:20.000000"
+    },
+    {
+      "user_id": 72955,
+      "movie_title": "radio+days+1987",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:22.000000"
+    },
+    {
+      "user_id": 115958,
+      "movie_title": "alien+1979",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:23.000000"
+    },
+    {
+      "user_id": 128826,
+      "movie_title": "the+shawshank+redemption+1994",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:25.000000"
+    },
+    {
+      "user_id": 18478,
+      "movie_title": "spirited+away+2001",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:31.000000"
+    },
+    {
+      "user_id": 22462,
+      "movie_title": "rich_+young+and+pretty+1951",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:32.000000"
+    },
+    {
+      "user_id": 126649,
+      "movie_title": "harry+potter+and+the+deathly+hallows+part+2+2011",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:35.000000"
+    },
+    {
+      "user_id": 37323,
+      "movie_title": "georgy+girl+1966",
+      "score": 2,
+      "rated_at": "2022-02-01 19:22:36.000000"
+    },
+    {
+      "user_id": 120192,
+      "movie_title": "thomasine++bushrod+1974",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:36.000000"
+    },
+    {
+      "user_id": 47024,
+      "movie_title": "a+bird+of+the+air+2011",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:38.000000"
+    },
+    {
+      "user_id": 147189,
+      "movie_title": "cinderella+2015",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:39.000000"
+    },
+    {
+      "user_id": 81176,
+      "movie_title": "2001+a+space+odyssey+1968",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:39.000000"
+    },
+    {
+      "user_id": 31746,
+      "movie_title": "500+days+of+summer+2009",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:39.000000"
+    },
+    {
+      "user_id": 91455,
+      "movie_title": "kikis+delivery+service+1989",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:41.000000"
+    },
+    {
+      "user_id": 144417,
+      "movie_title": "judge+dredd+1995",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:41.000000"
+    },
+    {
+      "user_id": 5519,
+      "movie_title": "the+heart+of+me+2002",
+      "score": 3,
+      "rated_at": "2022-02-01 19:22:42.000000"
+    },
+    {
+      "user_id": 73704,
+      "movie_title": "monsters_+inc.+2001",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:43.000000"
+    },
+    {
+      "user_id": 112787,
+      "movie_title": "payback+1999",
+      "score": 4,
+      "rated_at": "2022-02-01 19:22:44.000000"
+    },
+    {
+      "user_id": 108207,
+      "movie_title": "army+of+darkness+1992",
+      "score": 5,
+      "rated_at": "2022-02-01 19:23:39.000000"
+    },
+    {
+      "user_id": 61503,
+      "movie_title": "a+love+song+for+bobby+long+2004",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:40.000000"
+    },
+    {
+      "user_id": 70318,
+      "movie_title": "flood+2007",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:41.000000"
+    },
+    {
+      "user_id": 123169,
+      "movie_title": "how+do+you+know+2010",
+      "score": 2,
+      "rated_at": "2022-02-01 19:23:41.000000"
+    },
+    {
+      "user_id": 3586,
+      "movie_title": "the+lost+weekend+1945",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:42.000000"
+    },
+    {
+      "user_id": 5195,
+      "movie_title": "willy+wonka++the+chocolate+factory+1971",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:42.000000"
+    },
+    {
+      "user_id": 129689,
+      "movie_title": "blue+jasmine+2013",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:43.000000"
+    },
+    {
+      "user_id": 81554,
+      "movie_title": "godzilla+vs.+biollante+1989",
+      "score": 4,
+      "rated_at": "2022-02-01 19:23:46.000000"
+    },
+    {
+      "user_id": 55927,
+      "movie_title": "trails+1978",
+      "score": 3,
+      "rated_at": "2022-02-01 19:23:48.000000"
+    }
+  ]
